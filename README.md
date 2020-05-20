@@ -1,5 +1,5 @@
-# SherWeb tasks
-Codility SherWeb tasks:
+# Codility tasks
+Tasks:
 1. FormatStringPhone: Return a formated number phone in blocks of length three, except if number has length 10: ###-###-##-##. It contains at least two digits.
 2. NumberIndenticalPairsIndice: Given an Array A of N integers, returns the number of identical pairs of indices.
 3. DeepNestedJS: Given a DOM tree, returns the maximum depth of nested `<ul>` or `<ol>` lists.
